@@ -1,0 +1,9 @@
+remote_theme: pages-themes/hacker
+plugins:
+- jekyll-remote-theme
+
+title: Minimal JS Image Classifiers
+description: Some basic examples of client interfaces to a computer vision API
+
+author:
+  name: Jeremy Howard
